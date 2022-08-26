@@ -1,0 +1,35 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.data-col {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.form-input {
+  min-width: 260px;
+  margin: 5px auto;
+}
+
+.form-btn {
+  margin: 10px auto;
+}
+
+.form-end {
+  margin-bottom: 30px;
+}
+
+.tz-select {
+  min-width: 260px;
+}
+
+.data-label {
+  margin-top: 15px;
+}
